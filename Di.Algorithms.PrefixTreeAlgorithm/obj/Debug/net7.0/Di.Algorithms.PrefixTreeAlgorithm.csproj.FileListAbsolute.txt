@@ -1,0 +1,12 @@
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\bin\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.deps.json
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\bin\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\bin\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.csproj.AssemblyReference.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.AssemblyInfoInputs.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.AssemblyInfo.cs
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.csproj.CoreCompileInputs.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\refint\Di.Algorithms.PrefixTreeAlgorithm.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\Di.Algorithms.PrefixTreeAlgorithm.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.PrefixTreeAlgorithm\obj\Debug\net7.0\ref\Di.Algorithms.PrefixTreeAlgorithm.dll

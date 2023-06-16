@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Di.Algorithms.PrefixTreeAlgorithm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Di.Algorithms.PrefixTreeAlgorithm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Di.Algorithms.PrefixTreeAlgorithm.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Di.Algorithms.PrefixTreeAlgorithm/1.0.0": {
+      "type": "project",
+      "path": "../Di.Algorithms.PrefixTreeAlgorithm/Di.Algorithms.PrefixTreeAlgorithm.csproj",
+      "msbuildProject": "../Di.Algorithms.PrefixTreeAlgorithm/Di.Algorithms.PrefixTreeAlgorithm.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Di.Algorithms.PrefixTreeAlgorithm >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Evgeni\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\C#\\Github\\Di.Algorithms\\Di.Algorithms.PrefixTreeAlgorithm\\Di.Algorithms.PrefixTreeAlgorithm.csproj": {
+              "projectPath": "C:\\C#\\Github\\Di.Algorithms\\Di.Algorithms.PrefixTreeAlgorithm\\Di.Algorithms.PrefixTreeAlgorithm.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
