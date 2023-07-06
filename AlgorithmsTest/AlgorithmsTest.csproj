@@ -8,7 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Di.Algorithms.HeapAlgorithm\Di.Algorithms.HeapAlgorithm.csproj" />
       <ProjectReference Include="..\Di.Algorithms.PrefixTreeAlgorithm\Di.Algorithms.PrefixTreeAlgorithm.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="BenchmarkDotNet" Version="0.13.5" />
     </ItemGroup>
 
 </Project>
