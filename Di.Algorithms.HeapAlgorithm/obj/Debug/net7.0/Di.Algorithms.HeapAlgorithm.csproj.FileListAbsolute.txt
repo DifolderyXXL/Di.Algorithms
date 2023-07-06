@@ -1,0 +1,15 @@
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\bin\Debug\net7.0\Di.Algorithms.HeapAlgorithm.deps.json
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\bin\Debug\net7.0\Di.Algorithms.HeapAlgorithm.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\bin\Debug\net7.0\Di.Algorithms.HeapAlgorithm.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\bin\Debug\net7.0\Di.Algorithms.Common.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\bin\Debug\net7.0\Di.Algorithms.Common.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.csproj.AssemblyReference.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.AssemblyInfoInputs.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.AssemblyInfo.cs
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.csproj.CoreCompileInputs.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.csproj.CopyComplete
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\refint\Di.Algorithms.HeapAlgorithm.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\Di.Algorithms.HeapAlgorithm.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.HeapAlgorithm\obj\Debug\net7.0\ref\Di.Algorithms.HeapAlgorithm.dll

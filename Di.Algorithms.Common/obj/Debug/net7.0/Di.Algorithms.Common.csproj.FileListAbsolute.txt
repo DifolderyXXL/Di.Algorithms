@@ -1,0 +1,12 @@
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\bin\Debug\net7.0\Di.Algorithms.Common.deps.json
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\bin\Debug\net7.0\Di.Algorithms.Common.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\bin\Debug\net7.0\Di.Algorithms.Common.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.csproj.AssemblyReference.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.AssemblyInfoInputs.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.AssemblyInfo.cs
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.csproj.CoreCompileInputs.cache
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\refint\Di.Algorithms.Common.dll
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\Di.Algorithms.Common.pdb
+C:\C#\Github\Di.Algorithms\Di.Algorithms.Common\obj\Debug\net7.0\ref\Di.Algorithms.Common.dll
